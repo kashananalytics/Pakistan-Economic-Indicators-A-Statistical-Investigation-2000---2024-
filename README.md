@@ -190,7 +190,6 @@ install.packages(c(
   "moments",
   "corrplot",
   "broom",
-  "car",
   "lmtest",
   "sandwich"
 ))
